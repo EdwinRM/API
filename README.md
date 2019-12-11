@@ -2,6 +2,11 @@
 Basic node API with the Get, Post, Patch methods
 
 #install node modules
+#nodemon
+#install express
+#install mongoose
+#install body-parser
+#morgan
 
 #run npm start to start the server on localhost:3001
 
